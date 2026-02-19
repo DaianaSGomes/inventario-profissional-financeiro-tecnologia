@@ -79,3 +79,69 @@ Falta de visão financeira
 
 Pode ser vendido como serviço:
 SIM
+
+---
+
+## Habilidade: Declaração de Imposto de Renda
+
+Existe demanda: EXTREMAMENTE ALTA
+
+Quem precisa:
+• Pessoas físicas
+• Profissionais autônomos
+• Empresários
+
+Problema resolvido:
+Evita multas e irregularidades fiscais
+
+Pode ser vendido como serviço:
+SIM
+
+---
+
+## Habilidade: Abertura e Regularização de CNPJ
+
+Existe demanda: EXTREMAMENTE ALTA
+
+Quem precisa:
+• Novos empresários
+• MEIs
+• Empresas com pendências
+
+Problema resolvido:
+Regularização empresarial
+
+Pode ser vendido como serviço:
+SIM
+
+---
+
+## Habilidade: Migração de MEI para ME
+
+Existe demanda: MUITO ALTA
+
+Quem precisa:
+• MEIs com crescimento
+
+Problema resolvido:
+Regularização obrigatória e estruturação empresarial
+
+Pode ser vendido como serviço:
+SIM
+
+---
+
+## Habilidade: Serviços INSS
+
+Existe demanda: MUITO ALTA
+
+Quem precisa:
+• Autônomos
+• Empresários
+• Contribuintes individuais
+
+Problema resolvido:
+Regularização previdenciária
+
+Pode ser vendido como serviço:
+SIM
